@@ -1,0 +1,9 @@
+# Transaction Log for PPE Inventory Management System
+# This file records all transactions related to PPE inventory updates, including received and distributed items.
+
+# Example format for entries:
+# ItemCode, SupplierCode/HospitalCode, Quantity, DateTime
+# MS, SUP001, 50, 2023-10-01 10:00:00
+# GL, HOSP001, 20, 2023-10-02 14:30:00
+
+# The file is initially empty and will be populated as transactions occur.
