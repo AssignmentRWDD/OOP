@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'com.ppeinventory'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = '11'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Add any required dependencies here
+    implementation 'org.slf4j:slf4j-api:1.7.30'
+    implementation 'com.google.guava:guava:30.1-jre'
+    // Add other dependencies as needed
+}
+
+application {
+    mainClassName = 'com.ppeinventory.App'
+}
+
+jar {
+    manifest {
+        attributes(
+            'Main-Class': 'com.ppeinventory.App'
+        )
+    }
+}
