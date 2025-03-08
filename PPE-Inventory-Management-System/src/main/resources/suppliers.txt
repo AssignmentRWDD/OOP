@@ -1,5 +1,0 @@
-# Supplier Code, Supplier Name
-S001, Supplier One
-S002, Supplier Two
-S003, Supplier Three
-S004, Supplier Four

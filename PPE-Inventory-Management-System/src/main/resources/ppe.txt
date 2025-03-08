@@ -1,6 +1,0 @@
-HC,Supplier1,100
-FS,Supplier1,100
-MS,Supplier2,100
-GL,Supplier2,100
-GW,Supplier3,100
-SC,Supplier3,100

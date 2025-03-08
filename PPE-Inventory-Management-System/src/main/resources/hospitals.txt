@@ -1,4 +1,0 @@
-# Hospital Code, Hospital Name
-H001, City Hospital
-H002, General Hospital
-H003, Community Hospital
