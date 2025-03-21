@@ -1,0 +1,4 @@
+admin1,admin,admin123,admin
+staff1,staff,staff123,staff
+staff2,John Doe,pass456,staff
+admin2,Jane Smith,secure789,admin
